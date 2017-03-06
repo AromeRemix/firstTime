@@ -11,6 +11,8 @@ package firstgit;
  */
 public class Firstgit {
 
+    String number;
+    int valor;
     /**
      * @param args the command line arguments
      */
